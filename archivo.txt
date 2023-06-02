@@ -1,2 +1,6 @@
 Steven Páez
 Programador web Fullstack
+
+
+
+Nuevos cambios realizados desde Github
